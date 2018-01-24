@@ -1,0 +1,2 @@
+# UzCoin
+AdminUz
